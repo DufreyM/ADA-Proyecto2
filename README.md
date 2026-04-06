@@ -82,7 +82,15 @@ Los resultados se exportan a CSV para graficarse posteriormente.
 
 ---
 
+## Video
+https://youtu.be/ursuoeX0bB8
+
+---
+## Documento del proyecto
+https://uvggt-my.sharepoint.com/:w:/g/personal/mej23648_uvg_edu_gt/IQAY8rDJEz_uS7Ut86BvqA-4AdQ35e3WUr2o6kqKxT5LbHA?e=gqyxRr
+
+---
 ## 👨‍💻 Autores
 
-* Nombre 1
-* Nombre 2
+* Leonardo Dufrey Mejía Mejía, 23648
+* María José Girón Isidro, 23559
